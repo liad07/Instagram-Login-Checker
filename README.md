@@ -1,6 +1,6 @@
 # Instagram Login Checker
 
-This Python script allows you to check the validity of Instagram login credentials (username and password) using Instagram's API. It is intended for educational and personal use only. Please ensure that you use this script responsibly and in accordance with ethical guidelines.
+This Python script allows you to check the validity of <a href="https://logmeonce.com/resources/how-to-find-out-your-instagram-password-while-logged-in/">Instagram login checker</a> credentials (username and password) using Instagram's API. It is intended for educational and personal use only. Please ensure that you use this script responsibly and in accordance with ethical guidelines.
 
 ## Prerequisites
 
